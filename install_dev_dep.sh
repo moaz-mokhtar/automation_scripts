@@ -13,4 +13,7 @@ apt-get install -y --no-install-recommends \
   libclang-dev \
   libevent-dev \
   llvm-dev \
-  pkg-config
+  pkg-config \
+  git \
+  neovim
+  
